@@ -1,0 +1,147 @@
+.top-row{
+    /* background-color:aquamarine; */
+    height: 30px;
+}
+.left ul{
+overflow: auto;
+}
+.left li{
+    float: right;
+    list-style: none;
+    padding: 1px 1px;
+}
+.left li a{
+    padding: 1px;
+    font-style: normal;
+    padding: 3px;
+    color: beige;
+}
+.container p{
+ color: beige;
+ padding: 10px 10px;
+ margin: 3px 3px;
+}
+.header-right ul{
+    float: left;
+    list-style: none;
+    padding: 15px 15px;
+    margin: 3px 3px;
+}
+.header-right li{
+    float: left;
+    padding: 1px 1px;
+}
+.header-right li a{
+    padding: 1px 1px;
+    font-style: normal;
+  
+    margin: 5px 5px 5px 3px;
+    color:;
+   
+}
+.container h3 {
+    margin: 5px 5px;
+    line-height: 16px;
+}
+
+.heading h3{
+    margin-top: 20px;
+}
+.heading-left{
+    margin-top: 20px;
+}
+.header-right a{
+    color: white;
+}
+#person-icon{
+margin-left: 80px;
+}
+.get-a-quote{
+margin-left: 70px;
+}
+.header{
+    /* background-color:burlywood; */
+    color: white;
+}
+
+.get-a-quote{
+    background-color:rgb(167, 107, 107);
+    border-radius: 20px;
+    padding-left:30px ;
+    padding-right: 30px ;
+}
+
+/* -------- */
+.body{
+    height: 500px;
+    padding: 5px 5px;
+  }
+  .body2{
+  margin-top: 10px;
+  
+  }
+  .body1-layer1{
+    margin-top: 40px;
+  }
+  .body1-layer1 p{
+   color: black;
+  }
+  .body1-layer1 h1{
+      
+     background:rgb(90, 80, 80);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     font-weight: bold;
+     /* text-transform: uppercase; */
+     /* font-size: 54px; */
+  
+  }
+  .main{
+    background: rgb(168, 99, 99);
+    color: aliceblue;
+    border-radius: 15px;
+    border-color: transparent;
+    /* padding left: 5px; */
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* /* --------- account */
+.login{
+    margin-top: 50px;
+    border-color: rgb(rgb(129, 119, 119));
+    
+}
+.login1{
+    
+    
+}
+.login h2{
+    text-align: center;
+    font-weight:bold;
+}
+#login1{
+    width: 550px;
+    height: 50px;
+}
+
+.login-button{
+    width: 550px;
+    height: 45px;
+    background: linear-gradient(to left, rgb(34, 110, 125) , rgb(12, 14, 24));
+    height: 50px;
+    border-color: transparent;
+    font-weight: bold;
+    color: white;
+}
+
+#rememberMe{
+    margin-top: 30px;
+    color: black;
+    font-weight:bold ;
+}
+
+#login2{
+    width: 270px;
+    height: 50px;
+}
